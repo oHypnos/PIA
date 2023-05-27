@@ -36,3 +36,6 @@ El segundo script es un script de PowerShell que escanea los equipos activos en 
 
 
 El objetivo principal del script es identificar y mostrar los equipos activos en la subred especificada.
+
+# Web Scrapting
+
