@@ -4,7 +4,7 @@ Este repositorio está dedicado a las prácticas realizadas como parte del curso
 
 # Scripting en Powershell.
 
-Esta práctica se enfoca en [Script Poweshell](Scripting en Powershell). Puedes encontrar más detalles y los scripts correspondientes en la sección enlazada.
+Esta práctica se enfoca en [Script Poweshell](Scripting en Powershell/POWERSHELL1.md). Puedes encontrar más detalles y los scripts correspondientes en la sección enlazada.
 
 
 
